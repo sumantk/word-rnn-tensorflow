@@ -1,7 +1,7 @@
 # word-rnn-tensorflow
 [![Build Status](https://travis-ci.org/hunkim/word-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/hunkim/word-rnn-tensorflow)
 
-PS: Use Tensorflow r0.12 
+PS: Use Tensorflow r0.12 [click here to see installation instuctions] (https://www.tensorflow.org/versions/r0.12/get_started/os_setup).
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.
 
